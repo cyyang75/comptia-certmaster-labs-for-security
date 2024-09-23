@@ -100,6 +100,6 @@ Challenge Lab: Network Incident Investigation and Remediation
 
 ---
 
-![CompTIA CertMaster Labs](https://i.imgur.com/uTno6u5.png)
-
+![CompTIA CertMaster Labs](https://i.imgur.com/SJwU3Za.png)
+![CompTIA CertMaster Labs](https://i.imgur.com/UY9eYRI.png)
 ---
