@@ -1,7 +1,7 @@
 # CompTIA CertMaster Labs for Security+ (Exam SY0-701)
 
 <p align="center">
-<img src="https://i.imgur.com/xbfld7i.png" alt="CompTIA CertMaster Labs"/>
+<img src="./pic/comptia-security.png" alt="CompTIA CertMaster Labs"/>
 </p>
 
 ### I completed the CompTIA CertMaster Labs for Security+ (Exam SY0-701) during Apr 2024 - Jul 2024. These labs enable hands-on practice and skills development using real equipment and software accessed through a remote, browser-based lab environment.
@@ -100,6 +100,6 @@ Challenge Lab: Network Incident Investigation and Remediation
 
 ---
 
-![CompTIA CertMaster Labs](https://i.imgur.com/SJwU3Za.png)
-![CompTIA CertMaster Labs](https://i.imgur.com/UY9eYRI.png)
+![CompTIA CertMaster Labs](./pic/comptia-certmaster-labs-for-security.png)
+
 ---
